@@ -42,3 +42,4 @@ authorization:
   require_authentication: false
   preview_directives: 
     enabled: true
+
